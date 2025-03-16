@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kishan12345g" target="blank"><img src="https://img.shields.io/twitter/follow/kishan12345g?logo=twitter&style=for-the-badge" alt="kishan12345g" /></a> </p>
 
-- 🔭 I’m currently working on Vehical Booking Website [RiderPro](https://github.com/kishangupta99/RiderPro.git)
+- 🔭 I’m currently working on Vehicle Booking Website [RiderPro](https://github.com/kishangupta99/RiderPro.git)
 
 - 🌱 I’m currently learning **JDBC, or Java Database Connectivity**
 
