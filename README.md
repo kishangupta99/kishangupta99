@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **acpkishankumar@gmail.com , 8318627869**
 
-- 📄 My Resume [file:///D:/kishan%20bhai%20ka%20reume.pdf](file:///D:/kishan%20bhai%20ka%20reume.pdf)
+- 📄 My Resume [file:///D:/kishan%20bhai%20ka%20reume.pdf]((https://soft-jade-0sg6z8mjce.edgeone.app/kishan_resume.pdf))
 
 - ⚡ Fun fact **I think I am funny😊**
 
